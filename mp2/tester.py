@@ -212,7 +212,7 @@ def main():
     
     # run other tests
     result_module = module_tester.main()
-    assert result_module["score"] <= 100, "You recieved too many points - did you add more points in your 'module_tester' custom tests?"
+    assert result_module["score"] <= 100
     
     print("module_tester: ")
     print(result_module)

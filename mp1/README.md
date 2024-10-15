@@ -96,27 +96,11 @@ Estimate how many hours you spent on the project. This semester,
 "partner" should always be "none". Don't list people on your assigned
 study group.
 
-To submit, please follow the instructions in the `gitlab-tutorial` directory within this repo. Those instructions are the most complete
+Submit as follows: _CURRENTLY UPDATING GRADING PROCESS - WILL CHANGE SOON_
 
-The abridged submission instruction are: 
+1. Once you are done with your project you will submit it by creating a merge request
 
-1. Go to Pinned - `Merge requests` in the left navigation bar (do this in browser).
-
-2. Click `New merge request`.
-
-3. Select your `MP?` as the source branch. Select `cs320/cs320-sp24-students1/netid/projects-and-labs` and main as the target branch. Please __DO NOT__ select the public `cs320/cs320-sp24-students/projects-and-labs` as the target!
-
-4. __DO NOT__ select `Mark as draft`.
-
-5. __DO NOT__ select `delete source branch when merge request is accepted`.
-
-6. Submit the merge request.
-
-A few additional notes:
-
-1. Make sure the pipeline successfully runs before submitting. If it fails then your autograder score will be 0.
-
-2. If the pipeline fails, on the GitLab website, navigate to Build -> Jobs and click on the failed job. You will see the exact error message and you can debug from there.
+2. To do this...
 
 # Group Part (75%)
 

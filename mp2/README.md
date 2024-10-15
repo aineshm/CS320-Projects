@@ -181,8 +181,9 @@ Add a special method to `BST` so that if `t` is a `BST` object, it is possible t
 For the following questions, create a `Bank` object for the bank named "Charles Schwab Bank, SSB".
 
 ### Q1: what is the average interest rate for the bank?
+### Q1: what is the average interest rate for the bank?
 
-In the Bank class, create an `average_interest_rate()` method that returns the average interest rate. Include the missing loans where the interest rate is not specified in your calculation. What is the average interest rate for the "Charles Schwab Bank, SSB"?
+In the Bank class, create an `average_interest_rate()` method that returns the average interest rate. Skip missing loans where the interest rate is not specified in your calculation. What is the average interest rate for the "Charles Schwab Bank, SSB"?
 
 ### Q2: how many applicants are there per loan, on average?
 

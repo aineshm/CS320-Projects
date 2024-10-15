@@ -256,10 +256,7 @@ def main():
         result["errors"].append("could not find search module")
 
     # summarize results
-    weight_adjusted_points = (loans_points + (search_points * 2))
-    result["score"] = weight_adjusted_points / 40 * 100
-    if (weight_adjusted_points) == 36:
-        print("\nYou are missing 4 'loan_points' points - did you add your additional tests for 4 points to the 'module_tester' file? If not, check the instructions again.\n")
+    result["score"] = (loans_points + search_points * 2) / 36 * 100
     return result
 
 if __name__ == "__main__":
