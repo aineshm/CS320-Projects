@@ -1,6 +1,6 @@
-# CS320 Projects Repository
+# Data Science Programming Projects Repository
 
-This repository consists of all of my project coursework completed at UW Madison part of CS320 - Data Science Programming II. It includes new skills I learnt, such as using Flask to make webpages, using Selenium to scrape webpages, as well as older skills such as Regressiion and other ML Techniques. The following files across the repository were created/written/edited by me: 
+This repository consists of all of my project coursework completed at UW Madison part of Data Science Programming II. It includes new skills I learnt, such as using Flask to make webpages, using Selenium to scrape webpages, as well as older skills such as Regressiion and other ML Techniques. The following files across the repository were created/written/edited by me: 
 
 MP1: mp1.ipynb
 
